@@ -8,6 +8,6 @@
 - Javascript 1.5
 
 ## File sql_tables.php 
-Displayes a simple HTML form that gives the choice of talbles within some pre-defined
-SQL data base, and allows to send query via post method and renders the table in HTML format.
-Uses minimal HTML, Javascript, and CSS styling. 
+Displayes a simple HTML form that gives the choice of tables within some predefined
+SQL database, and allows one to send query via post method.  The script renders the resulting table in HTML format, assuming
+that the table contains numeric and string values. Uses minimal HTML, Javascript, and CSS styling. 
