@@ -11,7 +11,7 @@
 Displays a simple HTML form that gives the choice of tables within some predefined
 SQL database, and allows one to send query via post method.  The script renders the resulting table in HTML format, assuming
 that the table contains numeric and string values. Uses minimal HTML, Javascript, and CSS styling. 
-One should change these constants that correspond to the desired SQL host, account, and the data base. 
+One should change these constants to correspond to the desired SQL host, account, and the data base. 
 ```PHP
 // SQL login credentials.
 // Confidential info which is different for different users.
